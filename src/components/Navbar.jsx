@@ -12,7 +12,7 @@ const Navbar = () => {
       <div className="container flex items-center justify-between mx-auto">
         <div className="text-white font-bold text-lg">
           {/* Add your logo here */}
-          <span>Medical Website</span>
+          <span className='italic'>I Hear</span>
         </div>
         <button
           className="text-white focus:outline-none md:hidden"
